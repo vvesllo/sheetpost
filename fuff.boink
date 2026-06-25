@@ -1,0 +1,127 @@
+pattern: "c3 e3 g3 e3"
+wave: sine
+duration: 3.0
+attack: 0.05
+decay: 0.15
+sustain: 0.6
+release: 0.2;
+
+pattern: "c3 e3 g3 e3"
+wave: sine
+duration: 3.0
+attack: 0.05
+decay: 0.15
+sustain: 0.6
+release: 0.2;
+
+pattern: "a2 e3 a3 e3"
+wave: triangle
+duration: 3.0
+attack: 0.05
+decay: 0.15
+sustain: 0.5
+release: 0.2;
+
+pattern: "a2 e3 a3 e3"
+wave: triangle
+duration: 3.0
+attack: 0.05
+decay: 0.15
+sustain: 0.5
+release: 0.2;
+
+pattern: "f2 c3 f3 c3"
+wave: sine
+duration: 3.0
+attack: 0.05
+decay: 0.15
+sustain: 0.6
+release: 0.2;
+
+pattern: "f2 c3 f3 c3"
+wave: sine
+duration: 3.0
+attack: 0.05
+decay: 0.15
+sustain: 0.6
+release: 0.2;
+
+pattern: "g2 d3 g3 d3"
+wave: triangle
+duration: 3.0
+attack: 0.05
+decay: 0.15
+sustain: 0.5
+release: 0.2;
+
+pattern: "g2 d3 g3 d3"
+wave: triangle
+duration: 3.0
+attack: 0.05
+decay: 0.15
+sustain: 0.5
+release: 0.2;
+
+pattern: "c3 g3 e4 g3"
+wave: sine
+duration: 3.0
+attack: 0.08
+decay: 0.2
+sustain: 0.6
+release: 0.25;
+
+pattern: "a2 e3 c4 e3"
+wave: sine
+duration: 3.0
+attack: 0.08
+decay: 0.2
+sustain: 0.6
+release: 0.25;
+
+pattern: "f2 c3 a3 c3"
+wave: sine
+duration: 3.0
+attack: 0.08
+decay: 0.2
+sustain: 0.6
+release: 0.25;
+
+pattern: "g2 d3 b3 d3"
+wave: sine
+duration: 3.0
+attack: 0.08
+decay: 0.2
+sustain: 0.6
+release: 0.25;
+
+pattern: "[c3 e3 g3] [f3 a3 c4] [g3 b3 d4] [c4 e4 g4]"
+wave: sine
+duration: 4.0
+attack: 0.1
+decay: 0.25
+sustain: 0.7
+release: 0.3;
+
+pattern: "[a2 e3 a3] [f3 a3 c4] [g3 b3 d4] [c3 e3 g3]"
+wave: triangle
+duration: 4.0
+attack: 0.1
+decay: 0.25
+sustain: 0.6
+release: 0.3;
+
+pattern: "[c3 g3 c4] [e3 g3 c4] [f3 a3 c4] [g3 b3 d4]"
+wave: sine
+duration: 4.0
+attack: 0.12
+decay: 0.3
+sustain: 0.7
+release: 0.35;
+
+pattern: "[c3 e3 g3 c4] [a2 e3 a3 c4] [f2 c3 f3 a3] [g2 d3 g3 b3]"
+wave: sine
+duration: 5.0
+attack: 0.15
+decay: 0.35
+sustain: 0.8
+release: 0.4;
